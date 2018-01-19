@@ -35,5 +35,5 @@ film = objdict.loads(json.dumps(film))
 #print(film.base.title + ',' + film.directors_summary[0].name + ',' + str(film.base.year) + ',' + '0:' + str(int(film.runtime / 60)))
 
 year_part = ' (' + str(film.base.year) + ')'
-print('[' + film.base.title + ']' + '(http://www.imdb.com/title/' + imdb_id + '/)' + year_part)
+print('* [' + film.base.title + ']' + '(http://www.imdb.com/title/' + imdb_id + '/)' + year_part)
 
