@@ -7,3 +7,10 @@
 
 ### Feature
 * [Granitza](http://www.imdb.com/title/tt0109930/) (1994)
+
+## 22/03/2018 - Italy
+### Short Films
+* [La grande bellezza](10 minute excerpt)(http://www.imdb.com/title/tt2358891/) (2013)
+
+### Feature
+* [Roma città aperta](http://www.imdb.com/title/tt0038890/) (1945)
