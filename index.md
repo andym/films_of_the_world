@@ -14,3 +14,13 @@
 
 ### Feature
 * [Roma città aperta](http://www.imdb.com/title/tt0038890/) (1945)
+
+## 19/04/2018 - Chile
+### Short Films
+* [Historia de un oso](https://www.imdb.com/title/tt3829254/) (2014)
+* [La Madrastra (excerpt)](https://www.imdb.com/title/tt0376408/) (1981)
+
+### Feature
+* [Una mujer fantástica](https://www.imdb.com/title/tt5639354/) (2017)
+
+## 03/05/2018 - ?
