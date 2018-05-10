@@ -1,6 +1,5 @@
 ---
 title: Films of the World.
-layout: post
 ---
 
 # Films of the world
