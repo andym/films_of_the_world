@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: [Films of The World]
 description: [Watching a film from everywhere.]
+show_downloads: false
