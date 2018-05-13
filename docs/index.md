@@ -23,6 +23,7 @@ title: Films of the World.
 
 ### Feature
 * [Roma città aperta](http://www.imdb.com/title/tt0038890/) (1945)
+
 ![Roma città aperta](https://ia.media-imdb.com/images/M/MV5BMjZjZWVhODYtM2E5OS00ODRiLThjZDktMzE1NDUwMzg1ZmRiXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_UY268_CR4,0,182,268_AL_.jpg "Roma città aperta")
 
 ## 18/01/2018 - #1 - Bulgaria
@@ -33,4 +34,5 @@ title: Films of the World.
 
 ### Feature
 * [Granitza](http://www.imdb.com/title/tt0109930/) (1994)
+
 ![Granitza](https://ia.media-imdb.com/images/M/MV5BNDZlZjI0ZmUtZGY5NC00ZTI2LTliOGUtNzA2ZjU2YzU3ZTBmXkEyXkFqcGdeQXVyMzg1OTY0NjI@._V1_UY268_CR89,0,182,268_AL_.jpg "Granitza")
