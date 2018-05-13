@@ -5,9 +5,13 @@ title: Films of the World.
 ### Feature
 * [Sambizanga](http://www.imdb.com/title/tt0069214/) (1972)
 
+![Sambizanga](https://ia.media-imdb.com/images/M/MV5BMjIzYmVkZmMtM2ZhZi00YzYyLWI0M2UtMzZlYTE2MzQ4ZTk3XkEyXkFqcGdeQXVyMDc5NjMwMA@@._V1_UY268_CR3,0,182,268_AL_.jpg "Sambizanga")
+
 ## 03/05/2018 - #4 - Morocco
 ### Feature
 * [WWW: What a Wonderful World](https://www.imdb.com/title/tt0478744/) (2007)
+
+![WWW: What a Wonderful World](https://ia.media-imdb.com/images/M/MV5BOTc3ZDJjMWMtMTAxNC00ZWViLWE3NzctYWY2YjlmZmRhYWRkXkEyXkFqcGdeQXVyNzM0MDQ1Mw@@._V1_UY268_CR6,0,182,268_AL_.jpg "WWW: What a Wonderful World")
 
 ## 19/04/2018 - #3 - Chile
 ### Short Films
@@ -16,6 +20,8 @@ title: Films of the World.
 
 ### Feature
 * [Una mujer fantástica](https://www.imdb.com/title/tt5639354/) (2017)
+
+![Una mujer fantástica](https://ia.media-imdb.com/images/M/MV5BNGJhNWM4ZjItYWRhYS00N2UzLTg3OWItOGEzOWFmMGQ1ZjlkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg "Una mujer fantástica")
 
 ## 22/03/2018 - #2 - Italy
 ### Short Films
