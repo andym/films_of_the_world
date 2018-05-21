@@ -1,6 +1,12 @@
 ---
 title: Films of the World.
 ---
+## 17/05/2018 - #6 - The Philippines
+### Feature
+* [The Woman in the Septic Tank](https://www.imdb.com/title/tt1961179/) (2011)
+
+![The Woman in the Septic Tank](https://ia.media-imdb.com/images/M/MV5BZDlkNjlkMWUtYzVjNi00OTFmLWJkN2MtNDM0NWMwODc1YTdlXkEyXkFqcGdeQXVyNTYyNzQ2MjY@._V1_UY268_CR2,0,182,268_AL_.jpg)
+
 ## 07/05/2018 - #5 - Angola
 ### Feature
 * [Sambizanga](http://www.imdb.com/title/tt0069214/) (1972)
