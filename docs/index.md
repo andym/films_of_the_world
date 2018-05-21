@@ -1,6 +1,12 @@
 ---
 title: Films of the World.
 ---
+## 24/05/2018 = #7 - Vanuatu
+### Feature
+* [Tanna](https://www.imdb.com/title/tt4239726/) (2015)
+
+![Tanna](https://ia.media-imdb.com/images/M/MV5BMjEwNjEzOTU0OV5BMl5BanBnXkFtZTgwMjYyMzQ3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg)
+
 ## 17/05/2018 - #6 - The Philippines
 ### Feature
 * [The Woman in the Septic Tank](https://www.imdb.com/title/tt1961179/) (2011)
