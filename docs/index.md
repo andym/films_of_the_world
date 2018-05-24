@@ -5,7 +5,6 @@ title: Films of the World.
 ### Feature
 * [Tanna](https://www.imdb.com/title/tt4239726/) (2015)
 
-
 ![Tanna](https://ia.media-imdb.com/images/M/MV5BMjEwNjEzOTU0OV5BMl5BanBnXkFtZTgwMjYyMzQ3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg)
 
 #### What happens?
