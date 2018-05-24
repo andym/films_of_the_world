@@ -5,6 +5,15 @@ title: Films of the World.
 ### Feature
 * [Tanna](https://www.imdb.com/title/tt4239726/) (2015)
 
+#### What happens?
+Two Tannese fall in love, and challenge Tanna’s tradition of arranged marriage.
+
+#### Where does it fit in film culture?
+Although the film was directed by two Australians who had previously made documentaries, the actors and characters all live on the island of Tanna, and developed the story from an actual event on the island twenty years before.
+
+#### Tone?
+Humans behave the same everywhere, even when wearing grass skirts for an initiation rite on an errupting volcano.
+
 ![Tanna](https://ia.media-imdb.com/images/M/MV5BMjEwNjEzOTU0OV5BMl5BanBnXkFtZTgwMjYyMzQ3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg)
 
 ## 17/05/2018 - #6 - The Philippines
