@@ -1,7 +1,7 @@
 ---
 title: Films of the World.
 ---
-## 24/05/2018 = #7 - Vanuatu
+## 24/05/2018 - #7 - Vanuatu
 ### Feature
 * [Tanna](https://www.imdb.com/title/tt4239726/) (2015)
 
