@@ -1,6 +1,18 @@
 ---
 title: Films of the World.
 ---
+## 28/06/2018 - #9 - Liberia
+* [The Ambassador](https://www.imdb.com/title/tt2048877/) (2011)
+
+## 14/06/2018 - #8 - Mexico
+### Short Films
+* [Luchadora](https://www.imdb.com/title/tt1657393/) (2009)
+* [Muxes](https://www.imdb.com/title/tt6304090/) (2016)
+* [La Carnada](https://www.imdb.com/title/tt3201602/) (2014)
+
+### Feature
+* [El Mariachi](https://www.imdb.com/title/tt0104815/) (1992)
+
 ## 24/05/2018 - #7 - Vanuatu
 ### Feature
 * [Tanna](https://www.imdb.com/title/tt4239726/) (2015)
