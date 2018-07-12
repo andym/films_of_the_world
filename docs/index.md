@@ -10,6 +10,8 @@ title: Films of the World.
 ## 28/06/2018 - #9 - Central African Republic
 * [The Ambassador](https://www.imdb.com/title/tt2048877/) (2011)
 
+![The Ambassador](https://m.media-amazon.com/images/M/MV5BMTg2MzQ1MDQ2N15BMl5BanBnXkFtZTcwMzExMjUxOA@@._V1_UX182_CR0,0,182,268_AL_.jpg)
+
 ## 14/06/2018 - #8 - Mexico
 ### Short Films
 * [Field Song](https://www.imdb.com/title/tt6710972/) (2017)
