@@ -86,3 +86,25 @@ Humans behave the same everywhere, even when wearing grass skirts for an initiat
 * [Granitza](http://www.imdb.com/title/tt0109930/) (1994)
 
 ![Granitza](https://ia.media-imdb.com/images/M/MV5BNDZlZjI0ZmUtZGY5NC00ZTI2LTliOGUtNzA2ZjU2YzU3ZTBmXkEyXkFqcGdeQXVyMzg1OTY0NjI@._V1_UY268_CR89,0,182,268_AL_.jpg "Granitza")
+
+* What about the film caught your imagination?
+
+It captured the madness of isolation well. The way in which despotic regimes set up incentives to betray their fellow citizens in support of the regime. 
+
+* What do you think the film set out to achieve and was it successful? 
+
+The film is a post-communist film all about the recent past. Which is portrayed as nihilistic and focussed on the darker impulses of human nature.
+
+To gain a wider audience it could have been a black comedy, it was too bleak to be accessible. 
+
+* To what kind of person would you recommend this film?
+
+A person with an extreme left or right ideology to show the destructive power of the individual. (AM) I don't think it would put them off.
+
+* What did you learn about this country?
+
+This was clearly a difficult period in Bulgarias past.
+
+* Did this film make you want to see more films from this country?
+
+(GO) No. (AM) Yes. Because they can't all be as bleak as that. (A) Yes. I'd like to see what other themes their films address.
