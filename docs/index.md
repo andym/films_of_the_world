@@ -4,8 +4,12 @@ title: Films of the World.
 ## 09/08/2018 - #12 - Guyana
 * [The White Diamond](https://www.imdb.com/title/tt0435776/) (2004)
 
+![The White Diamond](https://m.media-amazon.com/images/M/MV5BMTUyNTg5ODY4NF5BMl5BanBnXkFtZTcwMTUwMDEzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg)
+
 ## 26/07/2018 - #11 - Canada
 * [Atanarjuat](https://www.imdb.com/title/tt0285441/) (2001)
+
+![Atanarjuat](https://m.media-amazon.com/images/M/MV5BNmIwMjRiMzgtYjM5NC00MTdlLWI2ZWMtNDQxOTAzZTJmNzMxXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_UY268_CR4,0,182,268_AL_.jpg)
 
 ## 12/07/2018 - #10 - Thailand
 * [Tears of the Black Tiger](https://www.imdb.com/title/tt0269217/) (2000)
