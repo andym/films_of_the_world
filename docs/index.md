@@ -1,10 +1,103 @@
 ---
 title: Films of the World.
 ---
+## 06/08/2013 - #14 - Iran
+
+We will watch:-
+
+* Persepolis.
+
+## 23/08/2018 - #13 - Georgia
+
+We watched:-
+
+* [The Trader](https://www.imdb.com/title/tt7924820/) (2018)
+
+* [Tangerines](https://www.imdb.com/title/tt2991224/) (2013)
+
+### Post-Film Q and A
+
+* What about the film caught your imagination?
+
+The trader is the archetypal "white van man", in a role that's existed forever. He's like a medieval trader on the silk road with his van full of wonders.
+
+"Potatoes and Tangerines and shashlik."
+
+It was a little bit "last of the summer wine" when the guys in Tangerines pushed the van off the cliff.
+
+* What do you think the film set out to achieve and was it successful?
+
+The trader set out to be a portrait of the poorer parts of Georgian society and how they trade and are perhaps exploited by the trader. Life seemed very basic and it's a shock to realise that Georgia is still part of europe. It seemed like an accurate portrayal.
+
+_A discussion ensued about the relative value of potatoes and cash between the UK and Georgia_
+
+The aim of Tangerines was much more straightforward - it seemed to be about the futility of war and maybe to tell a little of the history of the Caucasus. We liked that Ivo wasn't moralising. The story was simple - it was a bit like a disney film. We couldn't tell who the film was made for.
+
+* To what kind of person would you recommend this film?
+
+We had a discussion about how mainstream tangerines was. Not a blockbuster, but accessible. We would not recommend it to anyone in particular, there are better films.
+
+"The trader could be recommended to economics students."
+
+* What did you learn about this country?
+
+Beautiful countryside. Some of the history. The complicated ethnic mix in georgia. 
+
+Tangerines could almost have been set anywhere though, so we didn't learn that much.
+
+* Did this film make you want to see more films from this country?
+
+Yes. Tangerines was a bit too general, but The Trader was interesting. Both were well photographed, both accessible. 
+Georgia is recognisably European, but in rural areas very poor, so very different. 
+
 ## 09/08/2018 - #12 - Guyana
+
+We watched:-
+
 * [The White Diamond](https://www.imdb.com/title/tt0435776/) (2004)
 
 ![The White Diamond](https://m.media-amazon.com/images/M/MV5BMTUyNTg5ODY4NF5BMl5BanBnXkFtZTcwMTUwMDEzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg)
+
+### Post-Film Q and A
+
+* What about the film caught your imagination?
+
+Floating in an airship above the canopy of a forest.
+
+The film was very meditative with quite dreamy imagery. There was a strong contrast between the manic inventor guy and the slow ponderous airship.
+The proximity of hell (a diamond mine) to the heaven of a beautiful forest and wildlife. 
+
+The extended scene at the end with the swallows swooping out of the sky in their thousands to roost behind the mysterious waterfall.
+
+Some people follow a childhood dream of flying. 
+
+* What do you think the film set out to achieve and was it successful?
+
+The idea seemed to be "here's an interesting person, attempting something slightly crazy - what will happen next"?
+
+Despite being sometimes meandering and perhaps inconsequential, it was successful in conveying the story. They also took advantage of the amazing scenery and caught some incredible wildlife on film.
+
+Part of the reason for building the airship was that it was supposed to be able to capture unique footage of the canopy without disturbing the wildlife - we didn't see any of this. Did they fail their own goals?
+
+The film and escapade in the forest was attempting to address the inventors guilt about a previous accident, but this was undercut by presenting him as an adventurer. So maybe not sucessful there.
+
+Was presented as an adventure in the wilderness, but actually not that remote (within a few miles of a mine and a village).
+
+* To what kind of person would you recommend this film?
+
+It's an interesing documentary, so anyone interested in offbeat documentary. A curiosty, but not a life changer.  
+
+"Anyone who enjoys german accents."
+
+* What did you learn about this country?
+
+We didn't know they were english speaking (due to it being an ex-British colony), and didn't know the country is mainly rastafarian. 
+
+The country has breathtakingly beautiful nature.
+
+* Did this film make you want to see more films from this country?
+
+This film was an outsiders view of the country. You got a sense of the culture but it didn't want to make us see more. 
 
 ## 26/07/2018 - #11 - Canada
 * [Atanarjuat](https://www.imdb.com/title/tt0285441/) (2001)
