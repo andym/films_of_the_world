@@ -7,11 +7,15 @@ We will watch:-
 
 * [The story of the Weeping Camel](https://www.imdb.com/title/tt0373861/) (2003)
 
+![The story of the Weeping Camel](https://m.media-amazon.com/images/M/MV5BMTcwOTk3NjI2Nl5BMl5BanBnXkFtZTcwODQxOTUyMQ@@._V1_UY268_CR12,0,182,268_AL_.jpg)
+
 ## 20/09/2018 - #15 - Iran
 
 We will watch:-
 
 * [Persepolis](https://www.imdb.com/title/tt0808417/) (2007)
+
+![Persepolis](https://m.media-amazon.com/images/M/MV5BMGRkZThmYzEtYjQxZC00OWEzLThjYjAtYzFkMjY0NGZkZWI4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg)
 
 ## 06/09/2018 - #14 - Ghana
 
@@ -19,11 +23,15 @@ We watched:-
 
 * [No Time To Die](https://www.imdb.com/title/tt0899070/) (2006)
 
+![No Time To Die](https://m.media-amazon.com/images/M/MV5BYTc4NTQ2YzctMGVhMS00NjI2LTgzYWYtNjA1YzAxMzEzM2VlXkEyXkFqcGdeQXVyNDgwNDk2ODQ@._V1_UY268_CR2,0,182,268_AL_.jpg)
+
 ## 23/08/2018 - #13 - Georgia
 
 We watched:-
 
 * [The Trader](https://www.imdb.com/title/tt7924820/) (2018)
+
+![The Trader](https://m.media-amazon.com/images/M/MV5BYWFlOWZjZTUtNGFiNC00NTU1LTgzZDgtODkzNGQwNDFiODNkXkEyXkFqcGdeQXVyODI5NjAzNTI@._V1_UY268_CR4,0,182,268_AL_.jpg)
 
 * [Tangerines](https://www.imdb.com/title/tt2991224/) (2013)
 
