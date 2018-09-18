@@ -53,14 +53,13 @@ We had a discussion about how mainstream tangerines was. Not a blockbuster, but 
 
 * What did you learn about this country?
 
-Beautiful countryside. Some of the history. The complicated ethnic mix in georgia. 
-
+Beautiful countryside. Some of the history. The complicated ethnic mix in georgia.
 Tangerines could almost have been set anywhere though, so we didn't learn that much.
 
 * Did this film make you want to see more films from this country?
 
-Yes. Tangerines was a bit too general, but The Trader was interesting. Both were well photographed, both accessible. 
-Georgia is recognisably European, but in rural areas very poor, so very different. 
+Yes. Tangerines was a bit too general, but the trader was interesting. Both were well photographed, both accessible. 
+Georgia is recognisably european, but in rural areas very poor, so very different. 
 
 ## 09/08/2018 - #12 - Guyana
 
