@@ -7,6 +7,8 @@ We watched:-
 
 * [Take Care of Your Scarf, Tatiana](https://www.imdb.com/title/tt0110832/) (1994)
 
+![Take Care of Your Scarf, Tatiana](https://m.media-amazon.com/images/M/MV5BMTQ4NDY0Nzg1OV5BMl5BanBnXkFtZTcwMTYyNDMzMQ@@._V1_UY268_CR1,0,182,268_AL_.jpg)
+
 ## 15/10/2018 - #19 - Ecuador
 
 We watched:-
