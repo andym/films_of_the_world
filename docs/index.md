@@ -1,6 +1,12 @@
 ---
 title: Films of the World.
 ---
+## 29/11/2018 - #20 - Finland
+
+We watched:-
+
+* [Take Care of Your Scarf, Tatiana](https://www.imdb.com/title/tt0110832/) (1994)
+
 ## 15/10/2018 - #19 - Ecuador
 
 We watched:-
