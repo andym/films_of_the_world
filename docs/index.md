@@ -25,7 +25,7 @@ We watched:-
 
 ![Ixcanul](https://m.media-amazon.com/images/M/MV5BMTUyMjUwMDk2NV5BMl5BanBnXkFtZTgwMzU4NTUzOTE@._V1_UY268_CR0,0,182,268_AL_.jpg)
 
-[trailer[(https://www.youtube.com/watch?v=EJfvKnLPqFM)
+[trailer](https://www.youtube.com/watch?v=EJfvKnLPqFM)
 
 ## 04/10/2018 - #17 - Mongolia 
 
