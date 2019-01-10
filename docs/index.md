@@ -1,6 +1,12 @@
 ---
 title: Films of the World.
 ---
+## 10/01/2019 - #21 - Cuba
+
+We watched:-
+
+* [Havana Suite](https://www.imdb.com/title/tt0384566/) (2003)
+
 ## 29/11/2018 - #20 - Finland
 
 We watched:-
