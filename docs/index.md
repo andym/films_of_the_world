@@ -1,7 +1,15 @@
 ---
 title: Films of the World.
 ---
+## 24/01/2019 - #23 - Colombia
+
+We will watch:-
+
+* [Bad Lucky Goat](https://www.imdb.com/title/tt6094944/) (2017)
+
 ## 17/01/2019 - #22 - Bolivia
+
+We watched:-
 
 * [Sealed Cargo](https://www.imdb.com/title/tt2565982/) (2015)
 
