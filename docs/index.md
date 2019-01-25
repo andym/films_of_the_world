@@ -3,7 +3,7 @@ title: Films of the World.
 ---
 ## 24/01/2019 - #23 - Colombia
 
-We will watch:-
+We watched:-
 
 * [Bad Lucky Goat](https://www.imdb.com/title/tt6094944/) (2017)
 
