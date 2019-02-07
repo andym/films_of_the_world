@@ -3,7 +3,7 @@ title: Films of the World.
 ---
 ## 7/02/2019 - #24 - Zambia
 
-We will watch:-
+We watched:-
 
 * [I am not a witch](https://www.imdb.com/title/tt6213284/) (2017)
 
