@@ -1,15 +1,31 @@
 ---
 title: Films of the World.
 ---
+## 25/04/2019 - #28 - Hungary
+
+* [Kontroll](https://www.imdb.com/title/tt0373981/) (2003)
+
+## 11/04/2019 - #28 - Turkey
+
+We will watch Kedi and some Turkish Star Wars
+
+## 28/03/2019 - #27 - Azerbaijan
+
+We watched:-
+
+* [Oil Rocks: City Above the Sea](https://www.imdb.com/title/tt1528788/) (2009)
+
+* [Oil: A Symphony in Motion](https://www.imdb.com/title/tt1218342/) (1933)
+
 ## 21/02/2019 - #26 - Congo
 
-We will watch:-
+We watched:-
 
 * [Katanga Business](https://www.imdb.com/title/tt1381067/) (2009)
 
 ## 14/02/2019 - #25 - Tunisia 
 
-We will watch:-
+We watched:-
 
 * [Red Satin](https://www.imdb.com/title/tt0300453/) (2002)
 
