@@ -7,7 +7,13 @@ title: Films of the World.
 
 ## 11/04/2019 - #28 - Turkey
 
-We will watch Kedi and some Turkish Star Wars
+As much as we could stand of:
+
+* [Dünyayi Kurtaran Adam](https://www.imdb.com/title/tt0182060/) (1982)
+
+And then:
+
+* [Kedi](https://www.imdb.com/title/tt4420704/) (2016)
 
 ## 28/03/2019 - #27 - Azerbaijan
 
