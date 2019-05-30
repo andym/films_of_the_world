@@ -1,6 +1,12 @@
 ---
 title: Films of the World.
 ---
+## 30/05/2019 - #31 - Sri Lanka
+
+* [Song of Ceylon](https://www.imdb.com/title/tt0129389/) (1934)
+
+* [Kannathil Muthamittal (A peck on the cheek)](https://www.imdb.com/title/tt0312859/) (2002)
+
 ## 16/05/2019 - #30 - The Maldives
 
 * [The Island President](https://www.imdb.com/title/tt1990352/) (2011)
