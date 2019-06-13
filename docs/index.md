@@ -1,6 +1,10 @@
 ---
 title: Films of the World.
 ---
+## 13/06/2019 - #32 - Jamaica
+
+* [The Harder They Come](https://www.imdb.com/title/tt0070155/) (1972)
+
 ## 30/05/2019 - #31 - Sri Lanka
 
 * [Song of Ceylon](https://www.imdb.com/title/tt0129389/) (1934)
