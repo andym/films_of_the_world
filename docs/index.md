@@ -3,39 +3,39 @@ title: Films of the World.
 ---
 ## 24/10/2019 - #41 - Mali
 
-* Timbuktu
+* [Timbuktu](https://www.imdb.com/title/tt3409392/) (2014)
 
 ## 3/10/2019 - #40 - Madagascar
 
-* Makibefo
+* [Makibefo](https://www.imdb.com/title/tt0276313/) (2001)
 
 ## 19/09/2019 - #39 - Iceland
 
-* Woman at war
+* [Woman at war](https://www.imdb.com/title/tt7279188/) (2018)
 
 ## 5/09/2019 - #38 - Palestine
 
-* Wajib
+* [Wajib](https://www.imdb.com/title/tt6695212/) (2017)
 
 ## 8/08/2019 - #37 - Cambodia
 
-* One Evening After the War
+* [One Evening After the War](https://www.imdb.com/title/tt0157134/) (1998)
 
 ## 25/07/2019 - #36 - Tajikistan
 
-* Kosh Ba Kosh
+* [Kosh Ba Kosh](https://www.imdb.com/title/tt0107340/) (1993)
 
 ## 11/07/2019 - #35 - South Korea
 
-* The Spy Gone North
+* [The Spy Gone North](https://www.imdb.com/title/tt8290698/) (2018)
 
 ## 4/07/2019 - #34 - Tunisia
 
-* Red Satin
+* [Red Satin](https://www.imdb.com/title/tt0300453/) (2002)
 
 ## 27/06/2019 - #33 - Taiwan
 
-* Three Times
+* [Three Times](https://www.imdb.com/title/tt0459666/) (2005)
 
 ## 13/06/2019 - #32 - Jamaica
 
