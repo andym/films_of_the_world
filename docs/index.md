@@ -1,39 +1,39 @@
 ---
 title: Films of the World.
 ---
-## 24th  October - #41 - Mali
+## 24/10/2019 - #41 - Mali
 
 * Timbuktu
 
-## 3rd October - #40 - Madagascar
+## 3/10/2019 - #40 - Madagascar
 
 * Makibefo
 
-## 19th September - #39 - Iceland
+## 19/09/2019 - #39 - Iceland
 
 * Woman at war
 
-## 5th September - #38 - Palestine
+## 5/09/2019 - #38 - Palestine
 
 * Wajib
 
-## ? - #37 - Cambodia
+## 8/08/2019 - #37 - Cambodia
 
 * One Evening After the War
 
-## ? - #36 - Tajikistan
+## 25/07/2019 - #36 - Tajikistan
 
 * Kosh Ba Kosh
 
-## ? - #35 - South Korea
+## 11/07/2019 - #35 - South Korea
 
 * The Spy Gone North
 
-## ? - #34 - Tunisian
+## 4/07/2019 - #34 - Tunisia
 
 * Red Satin
 
-## ? - #33 - Taiwan
+## 27/06/2019 - #33 - Taiwan
 
 * Three Times
 
