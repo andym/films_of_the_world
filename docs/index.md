@@ -1,6 +1,42 @@
 ---
 title: Films of the World.
 ---
+## 24th  October - #41 - Mali
+
+* Timbuktu
+
+## 3rd October - #40 - Madagascar
+
+* Makibefo
+
+## 19th September - #39 - Iceland
+
+* Woman at war
+
+## 5th September - #38 - Palestine
+
+* Wajib
+
+## ? - #37 - Cambodia
+
+* One Evening After the War
+
+## ? - #36 - Tajikistan
+
+* Kosh Ba Kosh
+
+## ? - #35 - South Korea
+
+* The Spy Gone North
+
+## ? - #34 - Tunisian
+
+* Red Satin
+
+## ? - #33 - Taiwan
+
+* Three Times
+
 ## 13/06/2019 - #32 - Jamaica
 
 * [The Harder They Come](https://www.imdb.com/title/tt0070155/) (1972)
