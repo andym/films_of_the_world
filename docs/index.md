@@ -1,6 +1,14 @@
 ---
 title: Films of the World.
 ---
+## 21/11/2019 - #44 - North Korea
+
+* [Red Chapel]() (https://www.imdb.com/title/tt1546653/) (2009)
+
+## 13/11/2019 - #43 - Senegal
+
+* [TGV](https://www.imdb.com/title/tt0127915/) (1998)
+
 ## 5/11/2019 - #42 - Spain
 
 * [El Sur](https://www.imdb.com/title/tt0084740/) (1983)
