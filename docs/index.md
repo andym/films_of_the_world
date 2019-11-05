@@ -1,6 +1,10 @@
 ---
 title: Films of the World.
 ---
+## 5/11/2019 - #42 - Spain
+
+* [El Sur](https://www.imdb.com/title/tt0084740/) (1983)
+
 ## 24/10/2019 - #41 - Mali
 
 * [Timbuktu](https://www.imdb.com/title/tt3409392/) (2014)
