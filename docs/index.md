@@ -1,9 +1,17 @@
 ---
 title: Films of the World.
 ---
+## 15/01/2020 - #46 - Mozambique
+
+* [The Train of Salt and Sugar](https://www.imdb.com/title/tt4524676/) (2016)
+
+## 11/12/2019 - #45 - Burkina Faso
+
+* [Ouaga Saga](https://www.imdb.com/title/tt0439746/) (2004)
+
 ## 21/11/2019 - #44 - North Korea
 
-* [Red Chapel]() (https://www.imdb.com/title/tt1546653/) (2009)
+* [Red Chapel](https://www.imdb.com/title/tt1546653/) (2009)
 
 ## 13/11/2019 - #43 - Senegal
 
