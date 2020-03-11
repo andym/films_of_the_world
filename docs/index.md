@@ -1,6 +1,18 @@
 ---
 title: Films of the World.
 ---
+## 11/03/2020 - #49 - El Salvador
+
+* [El lugar más pequeño](https://www.imdb.com/title/tt1825758/) (2011)
+
+## 5/03/2020 - #48 - Kenya
+
+* [Nairobi Half Life](https://www.imdb.com/title/tt2234428/) (2012)
+
+## 20/02/2020- #47 - Trinidad
+
+* [The Solitary Alchemist](https://www.imdb.com/title/tt1743976/) (2010)
+
 ## 15/01/2020 - #46 - Mozambique
 
 * [The Train of Salt and Sugar](https://www.imdb.com/title/tt4524676/) (2016)
