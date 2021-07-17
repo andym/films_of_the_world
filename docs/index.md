@@ -1,6 +1,10 @@
 ---
 title: Films of the World.
 ---
+## 10/12/2020 - #76 - Niger
+
+* [FVVA: Femme, villa, voiture, argent](https://www.imdb.com/title/tt0125742/) (1972)
+
 ## 26/11/2020 - #75 - Kyrgyzstan
 
 * [Pure Coolness / Boz salkyn](https://www.imdb.com/title/tt1050089/) (2007)
