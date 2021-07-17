@@ -1,6 +1,10 @@
 ---
 title: Films of the World.
 ---
+## 12/10/2020 - #74 - Uganda
+
+* [The Last King of Scotland](https://www.imdb.com/title/tt0455590/) (2006)
+
 ## 29/10/2020 - #73 - Samoa
 
 * [Three Wise Cousins](https://www.imdb.com/title/tt5579650/) (2016)
