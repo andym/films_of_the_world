@@ -1,6 +1,10 @@
 ---
 title: Films of the World.
 ---
+## 22/10/2020 - #72 - Haiti
+
+* [La Source](https://www.imdb.com/title/tt1706607/) (2012)
+
 ## 15/10/2020 - #71 - Tanzania
 
 * [White Shadow](https://www.imdb.com/title/tt3077150/) (2013)
