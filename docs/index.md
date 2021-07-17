@@ -1,6 +1,10 @@
 ---
 title: Films of the World.
 ---
+## 17/12/2020 - #77 - Barbados
+
+* [The Tamarind Seed](https://www.imdb.com/title/tt0072253/) (1974)
+
 ## 10/12/2020 - #76 - Niger
 
 * [FVVA: Femme, villa, voiture, argent](https://www.imdb.com/title/tt0125742/) (1972)
