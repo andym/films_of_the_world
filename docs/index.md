@@ -1,7 +1,11 @@
 ---
 title: Films of the World.
 ---
-## 12/10/2020 - #74 - Uganda
+## 26/11/2020 - #75 - Kyrgyzstan
+
+* [Pure Coolness / Boz salkyn](https://www.imdb.com/title/tt1050089/) (2007)
+
+## 12/11/2020 - #74 - Uganda
 
 * [The Last King of Scotland](https://www.imdb.com/title/tt0455590/) (2006)
 
