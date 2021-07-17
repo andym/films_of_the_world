@@ -1,6 +1,10 @@
 ---
 title: Films of the World.
 ---
+## 29/10/2020 - #73 - Samoa
+
+* [Three Wise Cousins](https://www.imdb.com/title/tt5579650/) (2016)
+
 ## 22/10/2020 - #72 - Haiti
 
 * [La Source](https://www.imdb.com/title/tt1706607/) (2012)
