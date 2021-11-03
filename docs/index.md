@@ -1,6 +1,14 @@
 ---
 title: Films of the World.
 ---
+## 03/11/2021 - #85 - Kazakhstan
+
+* [Yellow Cat](https://www.imdb.com/title/tt12792608/) (2020)
+
+## 14/09/2021 - #84 - Paraguay
+
+* [The Heiresses](https://www.imdb.com/title/tt7446294/) (2018)
+
 ## 22/09/2021 - #83 - Nepal
 
 * [Highway](https://www.imdb.com/title/tt1284592/) (2012)
